@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Demonkratiy/demonkratiy.github.io.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Demonkratiy/demonkratiy.github.io.git/static/js/main.730d823b.chunk.js",
-    "main.js.map": "/Demonkratiy/demonkratiy.github.io.git/static/js/main.730d823b.chunk.js.map",
-    "runtime-main.js": "/Demonkratiy/demonkratiy.github.io.git/static/js/runtime-main.7f0c5f32.js",
-    "runtime-main.js.map": "/Demonkratiy/demonkratiy.github.io.git/static/js/runtime-main.7f0c5f32.js.map",
-    "static/js/2.a37675e3.chunk.js": "/Demonkratiy/demonkratiy.github.io.git/static/js/2.a37675e3.chunk.js",
-    "static/js/2.a37675e3.chunk.js.map": "/Demonkratiy/demonkratiy.github.io.git/static/js/2.a37675e3.chunk.js.map",
-    "index.html": "/Demonkratiy/demonkratiy.github.io.git/index.html",
-    "precache-manifest.2f9de431d9d4c2c248c9666a87e6f4be.js": "/Demonkratiy/demonkratiy.github.io.git/precache-manifest.2f9de431d9d4c2c248c9666a87e6f4be.js",
-    "service-worker.js": "/Demonkratiy/demonkratiy.github.io.git/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/Demonkratiy/demonkratiy.github.io.git/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.a37675e3.chunk.js.LICENSE": "/Demonkratiy/demonkratiy.github.io.git/static/js/2.a37675e3.chunk.js.LICENSE"
+    "main.css": "/Demonkratiy/demonkratiy.github.io/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Demonkratiy/demonkratiy.github.io/static/js/main.730d823b.chunk.js",
+    "main.js.map": "/Demonkratiy/demonkratiy.github.io/static/js/main.730d823b.chunk.js.map",
+    "runtime-main.js": "/Demonkratiy/demonkratiy.github.io/static/js/runtime-main.2b165cd4.js",
+    "runtime-main.js.map": "/Demonkratiy/demonkratiy.github.io/static/js/runtime-main.2b165cd4.js.map",
+    "static/js/2.e271b710.chunk.js": "/Demonkratiy/demonkratiy.github.io/static/js/2.e271b710.chunk.js",
+    "static/js/2.e271b710.chunk.js.map": "/Demonkratiy/demonkratiy.github.io/static/js/2.e271b710.chunk.js.map",
+    "index.html": "/Demonkratiy/demonkratiy.github.io/index.html",
+    "precache-manifest.2dee91b508d1a52dddb3495250df777f.js": "/Demonkratiy/demonkratiy.github.io/precache-manifest.2dee91b508d1a52dddb3495250df777f.js",
+    "service-worker.js": "/Demonkratiy/demonkratiy.github.io/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Demonkratiy/demonkratiy.github.io/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e271b710.chunk.js.LICENSE": "/Demonkratiy/demonkratiy.github.io/static/js/2.e271b710.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f0c5f32.js",
-    "static/js/2.a37675e3.chunk.js",
+    "static/js/runtime-main.2b165cd4.js",
+    "static/js/2.e271b710.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.730d823b.chunk.js"
   ]
